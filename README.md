@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Basic Math Problems in Python
 This repository contains a collection of basic math problems implemented in Python programming language. The purpose of this project is to provide beginners with a hands-on approach to learn Python programming and reinforce their understanding of fundamental math concepts.
 
@@ -38,4 +36,4 @@ This project is licensed under the MIT License. For more information, please see
 
 ## Acknowledgements
 We would like to thank the Python community and the developers of third-party libraries used in this project for their valuable contributions.
->>>>>>> 74f972f4894a085d5e2dce8a9d637043c7ec87ae
+
