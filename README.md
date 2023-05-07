@@ -23,7 +23,8 @@ This project includes the following basic math problems:
 - average_of_three_numbers.ipynb 
 - calculate_surface_and_volume_of_the_sphere.ipynb 
 - rectangle.ipynb 
-- temperature_conversion.ipynb 
+- temperature_conversion.ipynb
+- guess_the_random_number.ipynb 
 
 
 ## Contributing
