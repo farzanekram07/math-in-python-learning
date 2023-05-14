@@ -27,6 +27,7 @@ This project includes the following basic math problems:
 - Arithmetic
 - Average of Three Numbers 
 - Calculate Surface and Volume of the Sphere 
+- Meal cost at restaurent
 - Rectangle 
 - Temperature Conversion
 - Guess the Random Number 
